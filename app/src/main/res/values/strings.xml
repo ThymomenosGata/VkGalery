@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VkGalery</string>
+    <integer name="com_vk_sdk_AppId">6501977</integer>
+    <string name="login">Войти через ВК</string>
+    <string name="animators">animations</string>
+    <string name="title_activity_photo">Фото</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
